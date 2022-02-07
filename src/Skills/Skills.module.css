@@ -14,4 +14,7 @@ background-color: #929275;
 .skills {
     border: 5px solid;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }

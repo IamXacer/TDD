@@ -3,6 +3,9 @@ import './App.css'
 import Header from "./Header/Header";
 import Main from "./Main/Main";
 import Skills from "./Skills/Skills";
+import MyWorks from "./My Work/MyWorks";
+
+
 
 
 function App() {
@@ -11,6 +14,8 @@ function App() {
             <Header/>
             <Main/>
             <Skills/>
+            <MyWorks/>
+
         </div>
     )
 }
